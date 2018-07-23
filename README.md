@@ -10,5 +10,5 @@ A website created for the chairs shop with functionalities written in JavaScript
 [[Preview Website]](https://orszolka108.github.io/sitOnChair_HTML-CSS/)
 
 # Screenshot
+![Image](https://github.com/orszolka108/sitOnChair_HTML-CSS/blob/master/images/screen.png)
 
-![Image](https://github.com/orszolka108/sitOnChair/images/screen.png)
